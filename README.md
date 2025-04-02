@@ -1,5 +1,6 @@
 <h1>Interactive Image Reveal Application</h1>
     <p>I created this interactive image reveal application using p5.js. It allows users to reveal hidden images by dragging the mouse across the canvas. The application starts with the first image and switches to the next image after a certain number of pixels have been revealed. This process continues in a loop, providing a dynamic and engaging visual experience.</p>
+    <p><em>Created with p5.js</em></p>
        
 <h2>Usage</h2>
 <ol>
